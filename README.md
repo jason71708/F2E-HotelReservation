@@ -1,1 +1,9 @@
-# F2E-HotelReservation
+# F2E-week6-HotelReservation
+<h3>F2E挑戰第六週-旅館預約</h3><br>
+待優化項目:<br>
+·載入會有些報錯 undefine 但不影響畫面和功能<br>
+·主頁面初次載入時間較長，可加 loading 畫面<br>
+·日曆左右 icon 可換成另種（和設計稿一樣）<br>
+·日曆下方可加說明：斜線圖框為已預約日期<br>
+·預約成功畫面的 svg 可做成動畫<br>
+·主頁面點擊回復初始畫面時可設置自動滾動至上方<br>
